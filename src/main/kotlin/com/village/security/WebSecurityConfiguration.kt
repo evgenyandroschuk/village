@@ -1,0 +1,3 @@
+package com.village.security
+
+class WebSecurityConfiguration
