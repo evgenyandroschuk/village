@@ -5,9 +5,9 @@ import javax.persistence.GeneratedValue
 import javax.persistence.GenerationType
 import javax.persistence.Id
 
-//@Entity
+@Entity
 class Village(
-//        @Id @GeneratedValue(strategy = GenerationType.AUTO)
+        @Id
         var id: Long,
         var description: String,
         var owner: String,

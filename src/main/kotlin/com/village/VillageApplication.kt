@@ -1,6 +1,6 @@
 package com.village
 
-import org.springframework.boot.SpringApplication
+import com.village.db.VillageRepository
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
